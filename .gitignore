@@ -3,7 +3,11 @@ LICENSE.txt
 README.txt
 demos/
 extras/documentation
+<<<<<<< HEAD
 test/test.html
 .buildpath
 .project
 .setting/
+=======
+
+>>>>>>> 89c7f3e... Initial commit
