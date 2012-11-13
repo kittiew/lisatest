@@ -6,4 +6,4 @@ extras/documentation
 atest/test.html
 .buildpath
 .project
-
+.setting/
