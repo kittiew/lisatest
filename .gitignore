@@ -3,7 +3,7 @@ LICENSE.txt
 README.txt
 demos/
 extras/documentation
-atest/test.html
+test/test.html
 .buildpath
 .project
 .setting/
